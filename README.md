@@ -1,5 +1,7 @@
-# schulserver
+# Schulserver
 Prozessentwurf zur Planung, Einführung und zum Betrieb eines neuen Schulserversystems.
+
+Weitere Informationen finden sich in der zugehörigen Masterarbeit.
 
 ## Lizenz
 
