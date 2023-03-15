@@ -1,5 +1,8 @@
-# Schulserver
-Prozessentwurf zur Planung, Einführung und zum Betrieb eines neuen Schulserversystems.
+# Prozessdiagramm
+
+Prozessdiagramm zur Planung, Einführung und zum Betrieb eines neuen Schulserversystems. Es handelt sich um einen Entwurf, der auf die individuelle Situation eines Schulträgers angepasst werden muss.
+
+Empfehlenswert ist ein Einsatz ab ca. 10 Schulen. 
 
 Weitere Informationen finden sich in der zugehörigen Masterarbeit.
 
